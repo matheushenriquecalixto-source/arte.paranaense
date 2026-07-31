@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    background-color: black;
+    background-color: rgb(255, 253, 253);
     color:white;
     text-align: center;
     padding: 30px;
@@ -13,7 +13,7 @@ h1{
     font-size: 36px;
 }
 h2{
-    color:aqua;
+    color:rgb(0, 0, 0);
 }
 p{
     font-size:18px;
