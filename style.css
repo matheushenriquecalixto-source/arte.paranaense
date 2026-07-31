@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(51, 100, 22);
-    color: rgb(46, 120, 185);
+    background-color: rgb(69, 5, 189);
+    color: rgb(176, 185, 194);
     font-family: Arial, sans-serif;
 }
 
 header{
-    background-color:rgb(233, 38, 38);
-    color:black;
+    background-color:#1E293B;
+    color:#334155;
     text-align: center;
     padding: 30px;
 }
@@ -14,7 +14,7 @@ h1{
     font-size: 36px;
 }
 h2{
-    color:black;
+    color:#3B82F6;
 }
 p{
     font-size:18px;
