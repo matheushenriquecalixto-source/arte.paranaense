@@ -2,14 +2,20 @@ body{
     background-color:#128144(51, 100, 22);
     color:aliceblue;
 }
+
 header{
-    background-color:#014B43;
-    color:#F9ECE5;
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 30px;
 }
-main{
-    background-color:#128144;
+h1{
+    font-size: 36px;
 }
-footer{
-    background-color:#128144;
-    color:#E6D9D3;
+h2{
+    color:aqua;
+}
+p{
+    font-size:18px;
+    line-height: 1.6;
 }
