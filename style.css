@@ -7,7 +7,7 @@ body{
 
 header{
     background-color:#888ec2;
-    color:#b6b8cf;
+    color:#9a9baf;
     text-align: center;
     padding: 30px;
 }
@@ -62,7 +62,7 @@ figcaption{
     margin-top:8px;
 }
 .card {
-    background-color: #888ec2;
+    background-color: #a8aff0;
     padding: 15px;
     margin: 15px 0;
     border-left: 6px solid #6b2d5c;
