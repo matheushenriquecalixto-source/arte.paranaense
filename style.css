@@ -1,6 +1,6 @@
 body{
     background-color:#1E3A8A;
-    color:#F8FAFC;
+    color:#df1212;
     font-family: Arial, sans-serif;
     margin: 0;
 }
@@ -30,7 +30,7 @@ nav a {
     background-color: #9b4d83;
     padding: 10px 15px;
     border-radius: 8px;
-    margin: 5px;]
+    margin: 5px;
     display: inline-block;
 }
 nav a:hover {
